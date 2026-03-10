@@ -385,6 +385,10 @@ def detect_changes(old_state, new_state):
 # ──────────────────────────────────────────────────────────────────────
 # EMAIL NOTIFICATION (Resend)
 # ──────────────────────────────────────────────────────────────────────
+def _cat_status_label(status):
+    return AVAIL_STATUS_MAP.get(status, ("UNKNOWN", ""))[0]
+
+
 def send_email(subject, changes, shows, movie_info):
     api_key = RESEND_API_KEY.strip()
     to = RESEND_TO_EMAIL.strip()
@@ -395,26 +399,24 @@ def send_email(subject, changes, shows, movie_info):
         return
 
     now_str = datetime.now().strftime("%d %b %Y, %I:%M %p")
+    movie_name = movie_info.get("name", "Movie")
 
     # Build changes HTML
     changes_html = ""
     if changes:
         rows = "".join(
-            f'<li style="padding:4px 0;">{escape(c)}</li>'
+            f'<li style="padding:3px 0;font-size:14px;">{escape(c)}</li>'
             for c in changes
         )
         changes_html = f"""
-        <div style="margin-bottom:16px;">
-            <div style="font-weight:700;font-size:15px;margin-bottom:6px;">
-                ⚡ Changes Detected
-            </div>
-            <ul style="margin:0;padding-left:20px;font-size:14px;
-                        line-height:1.6;color:#1e40af;">
-                {rows}
-            </ul>
-        </div>"""
+        <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
+            Changes Detected
+        </h3>
+        <ul style="margin:0 0 20px 0;padding-left:20px;line-height:1.6;color:#333;">
+            {rows}
+        </ul>"""
 
-    # Build shows table
+    # Build shows section grouped by venue
     venue_groups = {}
     for s in shows:
         venue_groups.setdefault(s.venue_name, []).append(s)
@@ -423,83 +425,77 @@ def send_email(subject, changes, shows, movie_info):
     for vname, vshows in venue_groups.items():
         show_rows = ""
         for s in vshows:
-            cats = " · ".join(
-                f"{c.name} ₹{c.price} "
-                f"{'🔴' if c.status=='0' else '🟠' if c.status=='2' else '🟢' if c.status=='3' else '🟡'}"
+            cats = " | ".join(
+                f"{escape(c.name)} Rs.{escape(c.price)} ({_cat_status_label(c.status)})"
                 for c in s.categories
             )
-            fmt = f" | {s.screen_attr}" if s.screen_attr else ""
+            fmt = f" [{escape(s.screen_attr)}]" if s.screen_attr else ""
             show_rows += (
                 f'<tr>'
-                f'<td style="padding:6px 10px;border-bottom:1px solid #e2e8f0;">'
-                f'{escape(s.time)}{escape(fmt)}</td>'
-                f'<td style="padding:6px 10px;border-bottom:1px solid #e2e8f0;">'
-                f'{escape(cats)}</td>'
+                f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
+                f'font-size:13px;vertical-align:top;">'
+                f'{escape(s.time)}{fmt}</td>'
+                f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
+                f'font-size:13px;vertical-align:top;">'
+                f'{cats}</td>'
                 f'</tr>'
             )
 
         shows_html += f"""
-        <div style="margin-bottom:14px;">
-            <div style="font-weight:700;font-size:14px;padding:6px 0;">
-                🏢 {escape(vname)}
-            </div>
-            <table style="width:100%;border-collapse:collapse;font-size:13px;">
-                <tr style="background:#f1f5f9;">
-                    <th style="padding:6px 10px;text-align:left;">Time</th>
-                    <th style="padding:6px 10px;text-align:left;">Categories</th>
-                </tr>
-                {show_rows}
-            </table>
-        </div>"""
+        <p style="margin:14px 0 4px 0;font-size:14px;font-weight:bold;color:#333;">
+            {escape(vname)}
+        </p>
+        <table style="width:100%;border-collapse:collapse;font-size:13px;">
+            <tr style="background:#f5f5f5;">
+                <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
+                           font-weight:bold;">Time</th>
+                <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
+                           font-weight:bold;">Categories</th>
+            </tr>
+            {show_rows}
+        </table>"""
 
-    html = f"""
-<!doctype html>
+    html = f"""<!doctype html>
 <html>
-<body style="margin:0;padding:0;background:#f6f8fb;
-             font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',
-             Roboto,Helvetica,Arial,sans-serif;color:#0f172a;">
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
-           style="padding:24px 0;">
-        <tr><td align="center">
-            <table role="presentation" width="640" cellpadding="0"
-                   cellspacing="0"
-                   style="max-width:640px;background:#fff;
-                          border:1px solid #e2e8f0;
-                          border-radius:14px;overflow:hidden;">
-                <tr>
-                    <td style="background:linear-gradient(90deg,#0f172a,#1d4ed8);
-                               padding:16px 24px;color:#fff;
-                               font-size:18px;font-weight:700;">
-                        🎬 BMS: {escape(movie_info.get('name', 'Movie'))}
-                    </td>
-                </tr>
-                <tr>
-                    <td style="padding:20px 24px;">
-                        {changes_html}
-                        <div style="font-weight:700;font-size:15px;
-                                    margin-bottom:8px;">
-                            📊 Current Status
-                        </div>
-                        {shows_html}
-                        <div style="font-size:11px;color:#94a3b8;
-                                    margin-top:16px;">
-                            Checked at {now_str}
-                        </div>
-                        <div style="font-size:11px;color:#64748b;
-                                    margin-top:6px;">
-                            Built by <a href="https://github.com/aviiciii"
-                            style="color:#1d4ed8;text-decoration:none;">aviiciii</a>
-                            with love for cinema
-                        </div>
-                    </td>
-                </tr>
-            </table>
-        </td></tr>
-    </table>
+<head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;font-family:Arial,Helvetica,sans-serif;
+             font-size:14px;color:#333;background:#fff;">
+    <h2 style="margin:0 0 4px 0;font-size:18px;color:#111;">
+        BMS Alert: {escape(movie_name)}
+    </h2>
+    <p style="margin:0 0 20px 0;font-size:13px;color:#666;">
+        {escape(now_str)}
+    </p>
+    <hr style="border:none;border-top:1px solid #ddd;margin:0 0 20px 0;">
+    {changes_html}
+    <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
+        Current Showtimes
+    </h3>
+    {shows_html}
+    <p style="margin:24px 0 0 0;font-size:12px;color:#999;">
+        This is an automated alert from BMS Ticket Notifier.
+    </p>
 </body>
 </html>"""
 
-    plain = subject + "\n\n" + "\n".join(changes) if changes else subject
+    # Build plain-text version with full show details
+    plain_lines = [subject, "", f"Checked at: {now_str}", ""]
+    if changes:
+        plain_lines.append("Changes Detected:")
+        plain_lines.extend(f"  - {c}" for c in changes)
+        plain_lines.append("")
+    plain_lines.append("Current Showtimes:")
+    for vname, vshows in venue_groups.items():
+        plain_lines.append(f"\n{vname}")
+        for s in vshows:
+            cats = " | ".join(
+                f"{c.name} Rs.{c.price} ({_cat_status_label(c.status)})"
+                for c in s.categories
+            )
+            fmt = f" [{s.screen_attr}]" if s.screen_attr else ""
+            plain_lines.append(f"  {s.time}{fmt} - {cats}")
+    plain_lines.extend(["", "This is an automated alert from BMS Ticket Notifier."])
+    plain = "\n".join(plain_lines)
 
     try:
         resp = requests.post(
@@ -606,7 +602,7 @@ def main():
         for c in changes:
             print(f"     {c}")
         send_email(
-            f"🎟️ BMS: {movie_info['name']} — {len(changes)} change(s)!",
+            f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
             changes, filtered, movie_info,
         )
     else:
