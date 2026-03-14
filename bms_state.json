@@ -112,6 +112,54 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVPZ|29996|20260321|ELITE": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "10:15 AM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|29996|20260321|BUDGET": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "10:15 AM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVPZ|29991|20260321|ELITE": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|29991|20260321|BUDGET": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVPZ|29998|20260321|ELITE": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "11:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|29998|20260321|BUDGET": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "11:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PVTJ|7253|20260321|ELITE": {
       "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
       "time": "06:00 PM",
@@ -143,6 +191,70 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "2"
+    },
+    "PGRA|18121|20260321|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "10:00 AM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PGRA|18121|20260321|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "10:00 AM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
+    },
+    "PGRA|18116|20260321|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "02:55 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PGRA|18116|20260321|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "02:55 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
+    },
+    "PGRA|18122|20260321|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "05:50 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PGRA|18122|20260321|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "05:50 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
+    },
+    "PGRA|18123|20260321|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "10:35 PM",
+      "date": "20260321",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PGRA|18123|20260321|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "10:35 PM",
+      "date": "20260321",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
     }
   },
   "dates": {
