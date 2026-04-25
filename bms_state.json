@@ -13,7 +13,7 @@
       "time": "11:45 AM",
       "date": "20260426",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "330.00",
+      "price": "350.00",
       "status": "2"
     },
     "PVOO|45870|20260426|PRIME ROWS": {
@@ -198,6 +198,22 @@
       "date": "20260426",
       "cat": "CLASSIC ROWS",
       "price": "320.00",
+      "status": "3"
+    },
+    "PVFF|46826|20260426|GOLD PRIME": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "04:45 PM",
+      "date": "20260426",
+      "cat": "GOLD PRIME",
+      "price": "1100.00",
+      "status": "3"
+    },
+    "PVFF|46826|20260426|GOLD": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "04:45 PM",
+      "date": "20260426",
+      "cat": "GOLD",
+      "price": "1000.00",
       "status": "3"
     },
     "PVER|49000|20260426|GOLD PRIME": {
@@ -464,19 +480,19 @@
       "price": "460.00",
       "status": "2"
     },
-    "PBMM|30866|20260426|PRIME PLUS ROWS": {
-      "venue": "PVR: Bhartiya Mall of Bengaluru",
-      "time": "09:00 AM",
-      "date": "20260426",
-      "cat": "PRIME PLUS ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "PBMM|30866|20260426|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "09:00 AM",
       "date": "20260426",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PBMM|30866|20260426|PRIME PLUS ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "09:00 AM",
+      "date": "20260426",
+      "cat": "PRIME PLUS ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -525,7 +541,7 @@
       "time": "11:45 AM",
       "date": "20260426",
       "cat": "PRIME ROWS",
-      "price": "340.00",
+      "price": "360.00",
       "status": "3"
     },
     "PBMM|30867|20260426|CLASSIC ROWS": {
@@ -798,7 +814,7 @@
       "date": "20260426",
       "cat": "PRIME ROWS",
       "price": "230.00",
-      "status": "3"
+      "status": "2"
     },
     "PMSR|26888|20260426|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -1341,7 +1357,7 @@
       "time": "02:00 PM",
       "date": "20260426",
       "cat": "PRIME ROWS",
-      "price": "280.00",
+      "price": "300.00",
       "status": "3"
     },
     "PZVK|24009|20260426|CLASSIC PLUS ROWS": {
@@ -1727,31 +1743,15 @@
       "cat": "RECLINER",
       "price": "1050.00",
       "status": "3"
-    },
-    "PVFF|46826|20260426|GOLD PRIME": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "04:45 PM",
-      "date": "20260426",
-      "cat": "GOLD PRIME",
-      "price": "1100.00",
-      "status": "3"
-    },
-    "PVFF|46826|20260426|GOLD": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "04:45 PM",
-      "date": "20260426",
-      "cat": "GOLD",
-      "price": "1000.00",
-      "status": "3"
     }
   },
   "dates": {
-    "20260425": "AVAILABLE",
     "20260426": "BOOKABLE",
     "20260427": "AVAILABLE",
     "20260428": "AVAILABLE",
     "20260429": "AVAILABLE",
     "20260430": "AVAILABLE",
-    "20260501": "NOT_OPEN"
+    "20260501": "NOT_OPEN",
+    "20260502": "NOT_OPEN"
   }
 }
