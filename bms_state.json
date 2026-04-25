@@ -206,7 +206,7 @@
       "date": "20260426",
       "cat": "GOLD PRIME",
       "price": "1100.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFF|46826|20260426|GOLD": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -261,8 +261,8 @@
       "time": "09:45 PM",
       "date": "20260426",
       "cat": "PRIME ROWS",
-      "price": "300.00",
-      "status": "3"
+      "price": "320.00",
+      "status": "2"
     },
     "PVER|49038|20260426|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -528,19 +528,19 @@
       "price": "380.00",
       "status": "2"
     },
-    "PBMM|30867|20260426|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Bhartiya Mall of Bengaluru",
-      "time": "11:45 AM",
-      "date": "20260426",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
     "PBMM|30867|20260426|PRIME ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "11:45 AM",
       "date": "20260426",
       "cat": "PRIME ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PBMM|30867|20260426|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "11:45 AM",
+      "date": "20260426",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "360.00",
       "status": "3"
     },
@@ -814,7 +814,7 @@
       "date": "20260426",
       "cat": "PRIME ROWS",
       "price": "230.00",
-      "status": "2"
+      "status": "3"
     },
     "PMSR|26888|20260426|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -1670,7 +1670,7 @@
       "date": "20260426",
       "cat": "RECLINER PRIME",
       "price": "1350.00",
-      "status": "0"
+      "status": "1"
     },
     "PDWR|24367|20260426|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
