@@ -13,7 +13,7 @@
       "time": "11:45 AM",
       "date": "20260426",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "350.00",
+      "price": "330.00",
       "status": "2"
     },
     "PVOO|45870|20260426|PRIME ROWS": {
@@ -53,7 +53,7 @@
       "time": "04:15 PM",
       "date": "20260426",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "550.00",
+      "price": "580.00",
       "status": "2"
     },
     "PVOO|45829|20260426|PRIME ROWS": {
@@ -174,7 +174,7 @@
       "date": "20260426",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "500.00",
-      "status": "2"
+      "status": "1"
     },
     "PSPR|48178|20260426|PRIME ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
@@ -206,7 +206,7 @@
       "date": "20260426",
       "cat": "GOLD PRIME",
       "price": "1000.00",
-      "status": "2"
+      "status": "1"
     },
     "PVER|49000|20260426|GOLD": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -270,7 +270,7 @@
       "date": "20260426",
       "cat": "RECLINER ROWS",
       "price": "580.00",
-      "status": "1"
+      "status": "0"
     },
     "PPNX|39161|20260426|PRIME ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -318,7 +318,7 @@
       "date": "20260426",
       "cat": "CLASSIC PLUS ROWS",
       "price": "370.00",
-      "status": "2"
+      "status": "1"
     },
     "PPNX|39195|20260426|CLASSIC ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -334,7 +334,7 @@
       "date": "20260426",
       "cat": "RECLINER ROWS",
       "price": "700.00",
-      "status": "1"
+      "status": "0"
     },
     "PPNX|39209|20260426|PRIME ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -349,8 +349,8 @@
       "time": "06:55 PM",
       "date": "20260426",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "350.00",
-      "status": "3"
+      "price": "370.00",
+      "status": "2"
     },
     "PPNX|39209|20260426|CLASSIC ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -461,8 +461,8 @@
       "time": "09:00 AM",
       "date": "20260426",
       "cat": "RECLINER ROWS",
-      "price": "430.00",
-      "status": "3"
+      "price": "460.00",
+      "status": "2"
     },
     "PBMM|30866|20260426|PRIME PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -550,7 +550,7 @@
       "date": "20260426",
       "cat": "PRIME PLUS ROWS",
       "price": "380.00",
-      "status": "2"
+      "status": "1"
     },
     "PBMM|30877|20260426|PRIME ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -1174,7 +1174,7 @@
       "date": "20260426",
       "cat": "RECLINER ROWS",
       "price": "470.00",
-      "status": "3"
+      "status": "2"
     },
     "PGWB|20894|20260426|PRIME ROWS": {
       "venue": "PVR: GT World Mall, Magadi Road",
@@ -1333,7 +1333,7 @@
       "time": "02:00 PM",
       "date": "20260426",
       "cat": "RECLINER ROWS",
-      "price": "470.00",
+      "price": "500.00",
       "status": "2"
     },
     "PZVK|24009|20260426|PRIME ROWS": {
@@ -1526,14 +1526,14 @@
       "date": "20260426",
       "cat": "RECLINER ROWS",
       "price": "500.00",
-      "status": "2"
+      "status": "1"
     },
     "PAAS|16412|20260426|PRIME ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
       "time": "04:40 PM",
       "date": "20260426",
       "cat": "PRIME ROWS",
-      "price": "300.00",
+      "price": "320.00",
       "status": "2"
     },
     "PAAS|16412|20260426|CLASSIC PLUS ROWS": {
@@ -1542,7 +1542,7 @@
       "date": "20260426",
       "cat": "CLASSIC PLUS ROWS",
       "price": "270.00",
-      "status": "3"
+      "status": "2"
     },
     "PAAS|16412|20260426|CLASSIC ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
@@ -1678,7 +1678,7 @@
       "date": "20260426",
       "cat": "RECLINER",
       "price": "1250.00",
-      "status": "2"
+      "status": "1"
     },
     "PDWR|24369|20260426|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
