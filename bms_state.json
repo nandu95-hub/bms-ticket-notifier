@@ -558,7 +558,7 @@
       "date": "20260426",
       "cat": "RECLINER ROWS",
       "price": "590.00",
-      "status": "1"
+      "status": "0"
     },
     "PBMM|30877|20260426|PRIME PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -710,7 +710,7 @@
       "date": "20260426",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "2"
+      "status": "1"
     },
     "PSLC|15522|20260426|CLASSIC PLUS ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -1045,7 +1045,7 @@
       "time": "03:50 PM",
       "date": "20260426",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "280.00",
+      "price": "300.00",
       "status": "3"
     },
     "PGFD|28021|20260426|CLASSIC ROWS": {
@@ -1582,7 +1582,7 @@
       "date": "20260426",
       "cat": "PRIME ROWS",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "PAAS|16413|20260426|CLASSIC PLUS ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
@@ -1678,7 +1678,7 @@
       "date": "20260426",
       "cat": "RECLINER",
       "price": "1250.00",
-      "status": "2"
+      "status": "1"
     },
     "PDWR|24368|20260426|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
