@@ -389,7 +389,7 @@
       "time": "10:30 PM",
       "date": "20260426",
       "cat": "PRIME ROWS",
-      "price": "330.00",
+      "price": "350.00",
       "status": "3"
     },
     "PPNX|39165|20260426|CLASSIC PLUS ROWS": {
@@ -1190,7 +1190,7 @@
       "date": "20260426",
       "cat": "RECLINER ROWS",
       "price": "470.00",
-      "status": "2"
+      "status": "3"
     },
     "PGWB|20894|20260426|PRIME ROWS": {
       "venue": "PVR: GT World Mall, Magadi Road",
@@ -1582,7 +1582,7 @@
       "date": "20260426",
       "cat": "PRIME ROWS",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "PAAS|16413|20260426|CLASSIC PLUS ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
@@ -1670,7 +1670,7 @@
       "date": "20260426",
       "cat": "RECLINER PRIME",
       "price": "1350.00",
-      "status": "1"
+      "status": "0"
     },
     "PDWR|24367|20260426|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
