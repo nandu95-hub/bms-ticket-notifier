@@ -54,7 +54,7 @@
       "date": "20260501",
       "cat": "DIAMOND",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "SDCS|6834|20260501|GOLD": {
       "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
@@ -120,6 +120,30 @@
       "price": "200.00",
       "status": "3"
     },
+    "MKBG|20072|20260501|BALCONY PRIME": {
+      "venue": "Mukunda 4K Dolby Atmos: M.S.Nagar",
+      "time": "09:30 PM",
+      "date": "20260501",
+      "cat": "BALCONY PRIME",
+      "price": "250.00",
+      "status": "3"
+    },
+    "MKBG|20072|20260501|REAR CLASSIC": {
+      "venue": "Mukunda 4K Dolby Atmos: M.S.Nagar",
+      "time": "09:30 PM",
+      "date": "20260501",
+      "cat": "REAR CLASSIC",
+      "price": "200.00",
+      "status": "3"
+    },
+    "MKBG|20072|20260501|ROYAL BOX": {
+      "venue": "Mukunda 4K Dolby Atmos: M.S.Nagar",
+      "time": "09:30 PM",
+      "date": "20260501",
+      "cat": "ROYAL BOX",
+      "price": "300.00",
+      "status": "3"
+    },
     "VCCB|9628|20260501|PREMIUM": {
       "venue": "Victory Cinema Barco-4K RGB-Laser: Kamakshipalya",
       "time": "03:45 PM",
@@ -149,6 +173,70 @@
       "time": "09:30 PM",
       "date": "20260501",
       "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "STSV|6576|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "10:30 AM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "STSV|6576|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "10:30 AM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "STSV|6577|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "02:00 PM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "STSV|6577|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "02:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "STSV|6578|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "05:20 PM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "STSV|6578|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "05:20 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "STSV|6579|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "08:30 PM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "STSV|6579|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "08:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
@@ -296,38 +384,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "MUTB|3991|20260501|DIAMOND": {
-      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
-      "time": "07:00 PM",
-      "date": "20260501",
-      "cat": "DIAMOND",
-      "price": "250.00",
-      "status": "3"
-    },
-    "MUTB|3991|20260501|GOLD": {
-      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
-      "time": "07:00 PM",
-      "date": "20260501",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "MUTB|3992|20260501|DIAMOND": {
-      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
-      "time": "10:15 PM",
-      "date": "20260501",
-      "cat": "DIAMOND",
-      "price": "250.00",
-      "status": "3"
-    },
-    "MUTB|3992|20260501|GOLD": {
-      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
-      "time": "10:15 PM",
-      "date": "20260501",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
     "GTYT|23613|20260501|Balcony Class": {
       "venue": "Ganesh Theatre: Yelahanka",
       "time": "04:30 PM",
@@ -360,67 +416,115 @@
       "price": "250.00",
       "status": "3"
     },
-    "STSV|6576|20260501|PLATINUM": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "10:30 AM",
+    "MUTB|3991|20260501|DIAMOND": {
+      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
+      "time": "07:00 PM",
       "date": "20260501",
-      "cat": "PLATINUM",
+      "cat": "DIAMOND",
       "price": "250.00",
       "status": "3"
     },
-    "STSV|6576|20260501|GOLD": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "10:30 AM",
+    "MUTB|3991|20260501|GOLD": {
+      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
+      "time": "07:00 PM",
       "date": "20260501",
       "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "STSV|6577|20260501|PLATINUM": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "02:00 PM",
+    "MUTB|3992|20260501|DIAMOND": {
+      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
+      "time": "10:15 PM",
       "date": "20260501",
-      "cat": "PLATINUM",
+      "cat": "DIAMOND",
       "price": "250.00",
       "status": "3"
     },
-    "STSV|6577|20260501|GOLD": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "02:00 PM",
+    "MUTB|3992|20260501|GOLD": {
+      "venue": "Murali Cinemas(Gokula)4K Dolby7.1 A/C 3D:Mathikere",
+      "time": "10:15 PM",
       "date": "20260501",
       "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "STSV|6578|20260501|PLATINUM": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "05:20 PM",
+    "VRBL|18502|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:00 AM",
       "date": "20260501",
-      "cat": "PLATINUM",
+      "cat": "BALCONY",
       "price": "250.00",
       "status": "3"
     },
-    "STSV|6578|20260501|GOLD": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "05:20 PM",
+    "VRBL|18502|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:00 AM",
       "date": "20260501",
-      "cat": "GOLD",
+      "cat": "FIRST CLASS",
       "price": "200.00",
       "status": "3"
     },
-    "STSV|6579|20260501|PLATINUM": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "08:30 PM",
+    "VRBL|18503|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "01:05 PM",
       "date": "20260501",
-      "cat": "PLATINUM",
+      "cat": "BALCONY",
       "price": "250.00",
       "status": "3"
     },
-    "STSV|6579|20260501|GOLD": {
-      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
-      "time": "08:30 PM",
+    "VRBL|18503|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "01:05 PM",
       "date": "20260501",
-      "cat": "GOLD",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VRBL|18504|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "04:10 PM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18504|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "04:10 PM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VRBL|18505|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "07:20 PM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18505|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "07:20 PM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VRBL|18506|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18506|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
       "price": "200.00",
       "status": "3"
     }
