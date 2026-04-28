@@ -14,7 +14,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "SDCS|6832|20260501|DIAMOND": {
       "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
@@ -22,7 +22,7 @@
       "date": "20260501",
       "cat": "DIAMOND",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "SDCS|6832|20260501|GOLD": {
       "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
@@ -30,7 +30,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "SDCS|6833|20260501|DIAMOND": {
       "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
@@ -78,6 +78,46 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "300.00",
+      "status": "2"
+    },
+    "TDCA|775|20260501|GOLD": {
+      "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
+      "time": "09:45 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "220.00",
+      "status": "3"
+    },
+    "TDCA|775|20260501|PREMIUM": {
+      "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
+      "time": "09:45 PM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TDCA|775|20260501|SILVER": {
+      "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
+      "time": "09:45 PM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "BKDV|11143|20260501|GOLD": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "10:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "BKDV|11143|20260501|SILVER": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "10:00 PM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "200.00",
       "status": "3"
     },
     "SPAY|6866|20260501|DIAMOND": {
@@ -119,15 +159,119 @@
       "cat": "DIAMOND",
       "price": "300.00",
       "status": "3"
+    },
+    "GPTB|22563|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "09:00 AM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPTB|22567|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "09:30 AM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPTB|22564|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "01:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPTB|22568|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "01:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPTB|22565|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "05:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPTB|22569|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "05:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPTB|22566|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "09:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPTB|22570|20260501|GOLD": {
+      "venue": "Galaxy Paradise (Miniplex): Begur Road",
+      "time": "09:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SAED|4994|20260501|VIP": {
+      "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
+      "time": "09:40 PM",
+      "date": "20260501",
+      "cat": "VIP",
+      "price": "200.00",
+      "status": "0"
+    },
+    "SAED|4994|20260501|PREMIUM": {
+      "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
+      "time": "09:40 PM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "250.00",
+      "status": "0"
+    },
+    "SAED|4994|20260501|GOLD": {
+      "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
+      "time": "09:40 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "2"
+    },
+    "VCCB|9628|20260501|PREMIUM": {
+      "venue": "Victory Cinema Barco-4K RGB-Laser: Kamakshipalya",
+      "time": "03:45 PM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "245.00",
+      "status": "3"
+    },
+    "VCCB|9627|20260501|PREMIUM": {
+      "venue": "Victory Cinema Barco-4K RGB-Laser: Kamakshipalya",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "245.00",
+      "status": "3"
     }
   },
   "dates": {
     "20260501": "BOOKABLE",
     "20260502": "AVAILABLE",
     "20260503": "AVAILABLE",
-    "20260504": "NOT_OPEN",
-    "20260505": "NOT_OPEN",
-    "20260506": "NOT_OPEN",
-    "20260507": "NOT_OPEN"
+    "20260504": "AVAILABLE",
+    "20260505": "AVAILABLE",
+    "20260506": "AVAILABLE",
+    "20260507": "AVAILABLE"
   }
 }
