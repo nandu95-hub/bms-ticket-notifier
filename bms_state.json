@@ -46,7 +46,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "SDCS|6834|20260501|DIAMOND": {
       "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
@@ -104,6 +104,86 @@
       "price": "200.00",
       "status": "3"
     },
+    "VRBL|18502|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:00 AM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18502|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:00 AM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VRBL|18503|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "01:05 PM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18503|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "01:05 PM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VRBL|18504|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "04:10 PM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18504|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "04:10 PM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VRBL|18505|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "07:20 PM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18505|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "07:20 PM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VRBL|18506|20260501|BALCONY": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VRBL|18506|20260501|FIRST CLASS": {
+      "venue": "Veeresh Cinemas: Magadi Road",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "FIRST CLASS",
+      "price": "200.00",
+      "status": "3"
+    },
     "BKDV|11143|20260501|GOLD": {
       "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
       "time": "10:00 PM",
@@ -118,6 +198,38 @@
       "date": "20260501",
       "cat": "SILVER",
       "price": "200.00",
+      "status": "3"
+    },
+    "SSNR|12254|20260501|GOLDRECLINER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:15 PM",
+      "date": "20260501",
+      "cat": "GOLDRECLINER",
+      "price": "550.00",
+      "status": "3"
+    },
+    "SSNR|12254|20260501|GOLD": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:15 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "SSNR|12254|20260501|SILVER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:15 PM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSNR|12254|20260501|LOUNGER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:15 PM",
+      "date": "20260501",
+      "cat": "LOUNGER",
+      "price": "250.00",
       "status": "3"
     },
     "MKBG|20072|20260501|BALCONY PRIME": {
@@ -280,46 +392,6 @@
       "price": "200.00",
       "status": "1"
     },
-    "SPAY|6866|20260501|DIAMOND": {
-      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
-      "time": "09:30 AM",
-      "date": "20260501",
-      "cat": "DIAMOND",
-      "price": "300.00",
-      "status": "3"
-    },
-    "SPAY|6867|20260501|DIAMOND": {
-      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
-      "time": "12:45 PM",
-      "date": "20260501",
-      "cat": "DIAMOND",
-      "price": "300.00",
-      "status": "3"
-    },
-    "SPAY|6868|20260501|DIAMOND": {
-      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
-      "time": "04:00 PM",
-      "date": "20260501",
-      "cat": "DIAMOND",
-      "price": "300.00",
-      "status": "3"
-    },
-    "SPAY|6869|20260501|DIAMOND": {
-      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
-      "time": "07:15 PM",
-      "date": "20260501",
-      "cat": "DIAMOND",
-      "price": "300.00",
-      "status": "3"
-    },
-    "SPAY|6870|20260501|DIAMOND": {
-      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
-      "time": "10:30 PM",
-      "date": "20260501",
-      "cat": "DIAMOND",
-      "price": "300.00",
-      "status": "3"
-    },
     "GPTB|22563|20260501|GOLD": {
       "venue": "Galaxy Paradise (Miniplex): Begur Road",
       "time": "09:00 AM",
@@ -384,6 +456,46 @@
       "price": "200.00",
       "status": "3"
     },
+    "SPAY|6866|20260501|DIAMOND": {
+      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
+      "time": "09:30 AM",
+      "date": "20260501",
+      "cat": "DIAMOND",
+      "price": "300.00",
+      "status": "2"
+    },
+    "SPAY|6867|20260501|DIAMOND": {
+      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
+      "time": "12:45 PM",
+      "date": "20260501",
+      "cat": "DIAMOND",
+      "price": "300.00",
+      "status": "3"
+    },
+    "SPAY|6868|20260501|DIAMOND": {
+      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
+      "time": "04:00 PM",
+      "date": "20260501",
+      "cat": "DIAMOND",
+      "price": "300.00",
+      "status": "3"
+    },
+    "SPAY|6869|20260501|DIAMOND": {
+      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
+      "time": "07:15 PM",
+      "date": "20260501",
+      "cat": "DIAMOND",
+      "price": "300.00",
+      "status": "3"
+    },
+    "SPAY|6870|20260501|DIAMOND": {
+      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen2",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "DIAMOND",
+      "price": "300.00",
+      "status": "3"
+    },
     "GTYT|23613|20260501|Balcony Class": {
       "venue": "Ganesh Theatre: Yelahanka",
       "time": "04:30 PM",
@@ -445,86 +557,6 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "VRBL|18502|20260501|BALCONY": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "10:00 AM",
-      "date": "20260501",
-      "cat": "BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "VRBL|18502|20260501|FIRST CLASS": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "10:00 AM",
-      "date": "20260501",
-      "cat": "FIRST CLASS",
-      "price": "200.00",
-      "status": "3"
-    },
-    "VRBL|18503|20260501|BALCONY": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "01:05 PM",
-      "date": "20260501",
-      "cat": "BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "VRBL|18503|20260501|FIRST CLASS": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "01:05 PM",
-      "date": "20260501",
-      "cat": "FIRST CLASS",
-      "price": "200.00",
-      "status": "3"
-    },
-    "VRBL|18504|20260501|BALCONY": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "04:10 PM",
-      "date": "20260501",
-      "cat": "BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "VRBL|18504|20260501|FIRST CLASS": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "04:10 PM",
-      "date": "20260501",
-      "cat": "FIRST CLASS",
-      "price": "200.00",
-      "status": "3"
-    },
-    "VRBL|18505|20260501|BALCONY": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "07:20 PM",
-      "date": "20260501",
-      "cat": "BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "VRBL|18505|20260501|FIRST CLASS": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "07:20 PM",
-      "date": "20260501",
-      "cat": "FIRST CLASS",
-      "price": "200.00",
-      "status": "3"
-    },
-    "VRBL|18506|20260501|BALCONY": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "10:30 PM",
-      "date": "20260501",
-      "cat": "BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "VRBL|18506|20260501|FIRST CLASS": {
-      "venue": "Veeresh Cinemas: Magadi Road",
-      "time": "10:30 PM",
-      "date": "20260501",
-      "cat": "FIRST CLASS",
       "price": "200.00",
       "status": "3"
     }
