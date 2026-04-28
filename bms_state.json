@@ -374,7 +374,7 @@
       "date": "20260501",
       "cat": "VIP",
       "price": "200.00",
-      "status": "0"
+      "status": "1"
     },
     "SAED|4994|20260501|PREMIUM": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -390,7 +390,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "1"
+      "status": "2"
     },
     "GPTB|22563|20260501|GOLD": {
       "venue": "Galaxy Paradise (Miniplex): Begur Road",
