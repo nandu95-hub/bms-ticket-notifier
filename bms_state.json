@@ -205,7 +205,7 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "GOLDRECLINER",
-      "price": "550.00",
+      "price": "450.00",
       "status": "3"
     },
     "SSNR|12254|20260501|GOLD": {
@@ -213,7 +213,7 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "GOLD",
-      "price": "350.00",
+      "price": "270.00",
       "status": "3"
     },
     "SSNR|12254|20260501|SILVER": {
@@ -221,7 +221,7 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "SILVER",
-      "price": "250.00",
+      "price": "200.00",
       "status": "3"
     },
     "SSNR|12254|20260501|LOUNGER": {
@@ -229,7 +229,7 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "LOUNGER",
-      "price": "250.00",
+      "price": "200.00",
       "status": "3"
     },
     "MKBG|20072|20260501|BALCONY PRIME": {
