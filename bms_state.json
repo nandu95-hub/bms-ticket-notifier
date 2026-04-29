@@ -14,7 +14,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "CEHR|28274|20260501|GOLD": {
       "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
@@ -22,7 +22,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "RKCL|24978|20260501|GOLD": {
       "venue": "Rockline Cinemas: Jalahalli Cross",
@@ -62,7 +62,7 @@
       "date": "20260501",
       "cat": "DIAMOND",
       "price": "300.00",
-      "status": "1"
+      "status": "0"
     },
     "SDCS|6832|20260501|GOLD": {
       "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
@@ -126,7 +126,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
+      "status": "2"
     },
     "KINO|40006|20260501|SILVER": {
       "venue": "Kino Cinemas: Seegehalli Kadugodi, Bengaluru",
@@ -742,6 +742,198 @@
       "date": "20260501",
       "cat": "Delux Class",
       "price": "200.00",
+      "status": "3"
+    },
+    "GPBR|94258|20260501|SOFA": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "06:45 PM",
+      "date": "20260501",
+      "cat": "SOFA",
+      "price": "350.00",
+      "status": "2"
+    },
+    "GPBR|94258|20260501|GOLD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "06:45 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "290.00",
+      "status": "3"
+    },
+    "GPBR|94258|20260501|STANDARD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "06:45 PM",
+      "date": "20260501",
+      "cat": "STANDARD",
+      "price": "270.00",
+      "status": "3"
+    },
+    "GPBR|94257|20260501|SOFA": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "SOFA",
+      "price": "430.00",
+      "status": "3"
+    },
+    "GPBR|94257|20260501|GOLD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "330.00",
+      "status": "3"
+    },
+    "GPBR|94257|20260501|STANDARD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "STANDARD",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CVLG|1020|20260501|VIP EXECUTIVE": {
+      "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "VIP EXECUTIVE",
+      "price": "650.00",
+      "status": "3"
+    },
+    "CVLG|1020|20260501|VIP PREMIUM": {
+      "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "VIP PREMIUM",
+      "price": "700.00",
+      "status": "3"
+    },
+    "CNRM|2415|20260501|NORMAL": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "NORMAL",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CNRM|2415|20260501|EXECUTIVE": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CNRM|2415|20260501|PREMIUM": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CNRM|2415|20260501|VIP": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "VIP",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CNRM|2394|20260501|NORMAL": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "03:10 PM",
+      "date": "20260501",
+      "cat": "NORMAL",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CNRM|2394|20260501|EXECUTIVE": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "03:10 PM",
+      "date": "20260501",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CNRM|2394|20260501|PREMIUM": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "03:10 PM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CNRM|2394|20260501|VIP": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "03:10 PM",
+      "date": "20260501",
+      "cat": "VIP",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CNRM|2395|20260501|NORMAL": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "06:50 PM",
+      "date": "20260501",
+      "cat": "NORMAL",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CNRM|2395|20260501|EXECUTIVE": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "06:50 PM",
+      "date": "20260501",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CNRM|2395|20260501|PREMIUM": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "06:50 PM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CNRM|2395|20260501|VIP": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "06:50 PM",
+      "date": "20260501",
+      "cat": "VIP",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CNRM|2396|20260501|NORMAL": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "NORMAL",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CNRM|2396|20260501|EXECUTIVE": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CNRM|2396|20260501|PREMIUM": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CNRM|2396|20260501|VIP": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20260501",
+      "cat": "VIP",
+      "price": "500.00",
       "status": "3"
     }
   },
