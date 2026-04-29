@@ -550,7 +550,7 @@
       "date": "20260501",
       "cat": "PRIME ROWS",
       "price": "520.00",
-      "status": "1"
+      "status": "2"
     },
     "PSPR|48505|20260501|CLASSIC PLUS ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
@@ -829,7 +829,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "RECLINER ROWS",
-      "price": "700.00",
+      "price": "750.00",
       "status": "2"
     },
     "PVFF|47074|20260501|PRIME ROWS": {
@@ -901,7 +901,7 @@
       "time": "09:10 AM",
       "date": "20260501",
       "cat": "PRIME ROWS",
-      "price": "270.00",
+      "price": "290.00",
       "status": "2"
     },
     "PVER|49274|20260501|CLASSIC PLUS ROWS": {
@@ -1061,7 +1061,7 @@
       "time": "09:55 AM",
       "date": "20260501",
       "cat": "PRIME ROWS",
-      "price": "390.00",
+      "price": "410.00",
       "status": "3"
     },
     "PPNX|39514|20260501|CLASSIC PLUS ROWS": {
@@ -1437,7 +1437,7 @@
       "time": "12:30 PM",
       "date": "20260501",
       "cat": "NORMAL",
-      "price": "210.00",
+      "price": "320.00",
       "status": "3"
     },
     "CPOE|1901|20260501|EXECUTIVE": {
@@ -1445,7 +1445,7 @@
       "time": "12:30 PM",
       "date": "20260501",
       "cat": "EXECUTIVE",
-      "price": "230.00",
+      "price": "340.00",
       "status": "3"
     },
     "CPOE|1901|20260501|PREMIUM": {
@@ -1453,7 +1453,7 @@
       "time": "12:30 PM",
       "date": "20260501",
       "cat": "PREMIUM",
-      "price": "250.00",
+      "price": "360.00",
       "status": "2"
     },
     "CPOE|1901|20260501|PREMIUM XL": {
@@ -1461,7 +1461,7 @@
       "time": "12:30 PM",
       "date": "20260501",
       "cat": "PREMIUM XL",
-      "price": "290.00",
+      "price": "400.00",
       "status": "0"
     },
     "CPOE|1901|20260501|PREMIUM PLUS": {
@@ -1469,7 +1469,7 @@
       "time": "12:30 PM",
       "date": "20260501",
       "cat": "PREMIUM PLUS",
-      "price": "270.00",
+      "price": "380.00",
       "status": "1"
     },
     "CPOE|1902|20260501|NORMAL": {
@@ -1477,7 +1477,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "NORMAL",
-      "price": "230.00",
+      "price": "320.00",
       "status": "3"
     },
     "CPOE|1902|20260501|EXECUTIVE": {
@@ -1485,7 +1485,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "EXECUTIVE",
-      "price": "250.00",
+      "price": "340.00",
       "status": "3"
     },
     "CPOE|1902|20260501|PREMIUM": {
@@ -1493,7 +1493,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "PREMIUM",
-      "price": "270.00",
+      "price": "360.00",
       "status": "3"
     },
     "CPOE|1902|20260501|PREMIUM XL": {
@@ -1501,7 +1501,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "PREMIUM XL",
-      "price": "310.00",
+      "price": "400.00",
       "status": "1"
     },
     "CPOE|1902|20260501|PREMIUM PLUS": {
@@ -1509,7 +1509,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "PREMIUM PLUS",
-      "price": "290.00",
+      "price": "380.00",
       "status": "1"
     },
     "CPOE|1903|20260501|NORMAL": {
@@ -1517,7 +1517,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "NORMAL",
-      "price": "250.00",
+      "price": "320.00",
       "status": "3"
     },
     "CPOE|1903|20260501|EXECUTIVE": {
@@ -1525,7 +1525,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "EXECUTIVE",
-      "price": "270.00",
+      "price": "340.00",
       "status": "3"
     },
     "CPOE|1903|20260501|PREMIUM": {
@@ -1533,7 +1533,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "PREMIUM",
-      "price": "290.00",
+      "price": "360.00",
       "status": "3"
     },
     "CPOE|1903|20260501|PREMIUM XL": {
@@ -1541,7 +1541,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "PREMIUM XL",
-      "price": "330.00",
+      "price": "400.00",
       "status": "3"
     },
     "CPOE|1903|20260501|PREMIUM PLUS": {
@@ -1549,7 +1549,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "PREMIUM PLUS",
-      "price": "310.00",
+      "price": "380.00",
       "status": "2"
     },
     "PSLC|15612|20260501|RECLINER ROWS": {
@@ -1565,7 +1565,7 @@
       "time": "03:15 PM",
       "date": "20260501",
       "cat": "PRIME ROWS",
-      "price": "370.00",
+      "price": "390.00",
       "status": "3"
     },
     "PSLC|15612|20260501|CLASSIC PLUS ROWS": {
@@ -1808,12 +1808,52 @@
       "price": "300.00",
       "status": "3"
     },
+    "CPJR|2764|20260501|NORMAL": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "09:15 AM",
+      "date": "20260501",
+      "cat": "NORMAL",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CPJR|2764|20260501|EXECUTIVE": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "09:15 AM",
+      "date": "20260501",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CPJR|2764|20260501|EXECUTIVE XL": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "09:15 AM",
+      "date": "20260501",
+      "cat": "EXECUTIVE XL",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CPJR|2764|20260501|PREMIUM": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "09:15 AM",
+      "date": "20260501",
+      "cat": "PREMIUM",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CPJR|2764|20260501|RECLINER": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "09:15 AM",
+      "date": "20260501",
+      "cat": "RECLINER",
+      "price": "680.00",
+      "status": "3"
+    },
     "CPJR|2766|20260501|NORMAL": {
       "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "NORMAL",
-      "price": "280.00",
+      "price": "320.00",
       "status": "3"
     },
     "CPJR|2766|20260501|EXECUTIVE": {
@@ -1821,7 +1861,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "EXECUTIVE",
-      "price": "300.00",
+      "price": "340.00",
       "status": "3"
     },
     "CPJR|2766|20260501|EXECUTIVE XL": {
@@ -1829,7 +1869,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "EXECUTIVE XL",
-      "price": "350.00",
+      "price": "390.00",
       "status": "3"
     },
     "CPJR|2766|20260501|PREMIUM": {
@@ -1837,7 +1877,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "PREMIUM",
-      "price": "320.00",
+      "price": "380.00",
       "status": "3"
     },
     "CPJR|2766|20260501|RECLINER": {
@@ -1845,7 +1885,7 @@
       "time": "06:55 PM",
       "date": "20260501",
       "cat": "RECLINER",
-      "price": "640.00",
+      "price": "720.00",
       "status": "3"
     },
     "CPJR|2767|20260501|NORMAL": {
@@ -1853,7 +1893,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "NORMAL",
-      "price": "280.00",
+      "price": "320.00",
       "status": "3"
     },
     "CPJR|2767|20260501|EXECUTIVE": {
@@ -1861,7 +1901,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "EXECUTIVE",
-      "price": "300.00",
+      "price": "340.00",
       "status": "3"
     },
     "CPJR|2767|20260501|EXECUTIVE XL": {
@@ -1869,7 +1909,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "EXECUTIVE XL",
-      "price": "350.00",
+      "price": "390.00",
       "status": "3"
     },
     "CPJR|2767|20260501|PREMIUM": {
@@ -1877,7 +1917,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "PREMIUM",
-      "price": "320.00",
+      "price": "380.00",
       "status": "3"
     },
     "CPJR|2767|20260501|RECLINER": {
@@ -1885,7 +1925,7 @@
       "time": "10:30 PM",
       "date": "20260501",
       "cat": "RECLINER",
-      "price": "640.00",
+      "price": "720.00",
       "status": "3"
     },
     "PGFD|28208|20260501|RECLINER ROWS": {
@@ -2286,7 +2326,7 @@
       "date": "20260501",
       "cat": "SOFA",
       "price": "430.00",
-      "status": "2"
+      "status": "1"
     },
     "GPBR|94258|20260501|GOLD": {
       "venue": "Gopalan Cinemas: Bannerghatta Road",
@@ -2528,14 +2568,6 @@
       "price": "400.00",
       "status": "3"
     },
-    "GYBU|45655|20260501|CLASSIC ROWS": {
-      "venue": "INOX: Garuda Yelahanka, Bengaluru",
-      "time": "09:50 AM",
-      "date": "20260501",
-      "cat": "CLASSIC ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "GYBU|45655|20260501|CLASSIC PLUS ROWS": {
       "venue": "INOX: Garuda Yelahanka, Bengaluru",
       "time": "09:50 AM",
@@ -2549,6 +2581,14 @@
       "time": "09:50 AM",
       "date": "20260501",
       "cat": "PRIME ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "GYBU|45655|20260501|CLASSIC ROWS": {
+      "venue": "INOX: Garuda Yelahanka, Bengaluru",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "CLASSIC ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -2576,14 +2616,6 @@
       "price": "300.00",
       "status": "3"
     },
-    "GYBU|45659|20260501|CLASSIC ROWS": {
-      "venue": "INOX: Garuda Yelahanka, Bengaluru",
-      "time": "10:20 PM",
-      "date": "20260501",
-      "cat": "CLASSIC ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "GYBU|45659|20260501|CLASSIC PLUS ROWS": {
       "venue": "INOX: Garuda Yelahanka, Bengaluru",
       "time": "10:20 PM",
@@ -2597,6 +2629,14 @@
       "time": "10:20 PM",
       "date": "20260501",
       "cat": "PRIME ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "GYBU|45659|20260501|CLASSIC ROWS": {
+      "venue": "INOX: Garuda Yelahanka, Bengaluru",
+      "time": "10:20 PM",
+      "date": "20260501",
+      "cat": "CLASSIC ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -2902,7 +2942,7 @@
       "date": "20260501",
       "cat": "PREMIUM",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "TDCA|775|20260501|SILVER": {
       "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
@@ -3141,7 +3181,7 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "GOLD",
-      "price": "270.00",
+      "price": "300.00",
       "status": "3"
     },
     "SSNR|12254|20260501|SILVER": {
@@ -3149,7 +3189,7 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "SILVER",
-      "price": "200.00",
+      "price": "220.00",
       "status": "3"
     },
     "SSNR|12254|20260501|LOUNGER": {
@@ -3157,7 +3197,7 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "LOUNGER",
-      "price": "200.00",
+      "price": "220.00",
       "status": "3"
     },
     "GPSM|61947|20260501|Gold": {
@@ -3352,6 +3392,70 @@
       "price": "200.00",
       "status": "3"
     },
+    "STSV|6576|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "10:30 AM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "2"
+    },
+    "STSV|6576|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "10:30 AM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "STSV|6577|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "02:00 PM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "STSV|6577|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "02:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "STSV|6578|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "05:20 PM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "STSV|6578|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "05:20 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "STSV|6579|20260501|PLATINUM": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "08:30 PM",
+      "date": "20260501",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "STSV|6579|20260501|GOLD": {
+      "venue": "Savitha Theatre:2K Dolby A/C Malleshwaram",
+      "time": "08:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
     "PTBK|10363|20260501|RECLINER": {
       "venue": "Pushpanjali B N Pura: A/C 2K Dolby 7.1",
       "time": "10:00 PM",
@@ -3374,7 +3478,7 @@
       "date": "20260501",
       "cat": "VIP",
       "price": "200.00",
-      "status": "0"
+      "status": "1"
     },
     "SAED|4994|20260501|PREMIUM": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3390,7 +3494,7 @@
       "date": "20260501",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "1"
+      "status": "2"
     },
     "NFGD|67522|20260501|VIP (1 FOR 2 ADMIT)": {
       "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
@@ -3613,38 +3717,6 @@
       "time": "10:15 PM",
       "date": "20260501",
       "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SKDD|5470|20260501|Delux Class": {
-      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
-      "time": "10:30 AM",
-      "date": "20260501",
-      "cat": "Delux Class",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SKDD|5471|20260501|Delux Class": {
-      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
-      "time": "02:00 PM",
-      "date": "20260501",
-      "cat": "Delux Class",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SKDD|5472|20260501|Delux Class": {
-      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
-      "time": "05:20 PM",
-      "date": "20260501",
-      "cat": "Delux Class",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SKDD|5473|20260501|Delux Class": {
-      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
-      "time": "08:30 PM",
-      "date": "20260501",
-      "cat": "Delux Class",
       "price": "200.00",
       "status": "3"
     }
