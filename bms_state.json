@@ -559,6 +559,270 @@
       "cat": "GOLD",
       "price": "200.00",
       "status": "3"
+    },
+    "SVYK|13221|20260501|RECLINER": {
+      "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
+      "time": "10:00 PM",
+      "date": "20260501",
+      "cat": "RECLINER",
+      "price": "400.00",
+      "status": "0"
+    },
+    "SVYK|13221|20260501|BOX": {
+      "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
+      "time": "10:00 PM",
+      "date": "20260501",
+      "cat": "BOX",
+      "price": "280.00",
+      "status": "0"
+    },
+    "SVYK|13221|20260501|GOLD": {
+      "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
+      "time": "10:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "2"
+    },
+    "SVYK|13221|20260501|SILVER": {
+      "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
+      "time": "10:00 PM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "2"
+    },
+    "SKDD|5470|20260501|Delux Class": {
+      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
+      "time": "10:30 AM",
+      "date": "20260501",
+      "cat": "Delux Class",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SKDD|5471|20260501|Delux Class": {
+      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
+      "time": "02:00 PM",
+      "date": "20260501",
+      "cat": "Delux Class",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SKDD|5472|20260501|Delux Class": {
+      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
+      "time": "05:20 PM",
+      "date": "20260501",
+      "cat": "Delux Class",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SKDD|5473|20260501|Delux Class": {
+      "venue": "Sapna 2K Dolby 5.1 Digital S R: Gandhi Nagar",
+      "time": "08:30 PM",
+      "date": "20260501",
+      "cat": "Delux Class",
+      "price": "200.00",
+      "status": "3"
+    },
+    "RATK|8122|20260501|GOLD": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "11:00 AM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "RATK|8122|20260501|SILVER": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "11:00 AM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "RATK|8123|20260501|GOLD": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "02:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "RATK|8123|20260501|SILVER": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "02:30 PM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "RATK|8124|20260501|GOLD": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "06:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "RATK|8124|20260501|SILVER": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "06:00 PM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "RATK|8125|20260501|GOLD": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "09:30 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "RATK|8125|20260501|SILVER": {
+      "venue": "Robin Theater 4K Dolby Atmos: Kengeri Upanagara",
+      "time": "09:30 PM",
+      "date": "20260501",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "ACKB|4713|20260501|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "2"
+    },
+    "ACKB|4713|20260501|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "GRAND",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ACKB|4713|20260501|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "09:50 AM",
+      "date": "20260501",
+      "cat": "CLASSIC",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ACKB|4748|20260501|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "01:30 PM",
+      "date": "20260501",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "2"
+    },
+    "ACKB|4748|20260501|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "01:30 PM",
+      "date": "20260501",
+      "cat": "GRAND",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ACKB|4748|20260501|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "01:30 PM",
+      "date": "20260501",
+      "cat": "CLASSIC",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ACKB|4715|20260501|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "05:15 PM",
+      "date": "20260501",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "2"
+    },
+    "ACKB|4715|20260501|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "05:15 PM",
+      "date": "20260501",
+      "cat": "GRAND",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ACKB|4715|20260501|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "05:15 PM",
+      "date": "20260501",
+      "cat": "CLASSIC",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ACKB|4716|20260501|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260501",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "2"
+    },
+    "ACKB|4716|20260501|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260501",
+      "cat": "GRAND",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ACKB|4716|20260501|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260501",
+      "cat": "CLASSIC",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ACKB|4717|20260501|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "09:15 PM",
+      "date": "20260501",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "2"
+    },
+    "ACKB|4717|20260501|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "09:15 PM",
+      "date": "20260501",
+      "cat": "GRAND",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ACKB|4717|20260501|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "09:15 PM",
+      "date": "20260501",
+      "cat": "CLASSIC",
+      "price": "300.00",
+      "status": "3"
+    },
+    "VTBE|3932|20260501|GOLD": {
+      "venue": "Sri Vajreshwari Cinemas AC 4K Dolby ATMOS: Ullal",
+      "time": "04:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "VTBE|3933|20260501|GOLD": {
+      "venue": "Sri Vajreshwari Cinemas AC 4K Dolby ATMOS: Ullal",
+      "time": "10:00 PM",
+      "date": "20260501",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
     }
   },
   "dates": {
